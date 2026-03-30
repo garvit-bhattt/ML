@@ -7,6 +7,7 @@ Welcome to the **ML** repository! This project is a curated collection of Jupyte
 | File | Description |
 | :--- | :--- |
 | [Prob_Distributions_Intuition.ipynb](./Prob_Distributions_Intuition.ipynb) | Deep dive into Random Variables (RV), Probability Mass Functions (PMF), and Probability Density Functions (PDF) with Python visualizations. |
+| [Common_Probability_Distributions.ipynb](./Common_Probability_Distributions.ipynb) | Explorations of Bernoulli, Binomial, Exponential, and Gaussian distributions. |
 
 ## 🚀 Getting Started
 
