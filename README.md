@@ -8,6 +8,7 @@ Welcome to the **ML** repository! This project is a curated collection of Jupyte
 | :--- | :--- |
 | [Prob_Distributions_Intuition.ipynb](./Prob_Distributions_Intuition.ipynb) | Deep dive into Random Variables (RV), Probability Mass Functions (PMF), and Probability Density Functions (PDF) with Python visualizations. |
 | [Common_Probability_Distributions.ipynb](./Common_Probability_Distributions.ipynb) | Explorations of Bernoulli, Binomial, Exponential, and Gaussian distributions. |
+| [Histograms_and_KDE.ipynb](./Histograms_and_KDE.ipynb) | Understanding data shapes using Histograms vs. Kernel Density Estimation (KDE). |
 
 ## 🚀 Getting Started
 
@@ -18,6 +19,7 @@ To run the notebooks in this repository, you'll need Python installed along with
 - `numpy`
 - `matplotlib`
 - `scipy`
+- `seaborn`
 
 ### Installation
 
@@ -29,7 +31,7 @@ To run the notebooks in this repository, you'll need Python installed along with
 
 2. **Install dependencies:**
    ```bash
-   pip install numpy matplotlib scipy
+   pip install numpy matplotlib scipy seaborn
    ```
 
 3. **Launch Jupyter:**
@@ -41,9 +43,10 @@ To run the notebooks in this repository, you'll need Python installed along with
 
 This repository aims to cover:
 1. **Probability & Statistics:** Random Variables, PMF/PDF, Normal Distribution, Bayes' Theorem.
-2. **Linear Algebra:** Vectors, Matrices, Eigenvalues/Eigenvectors.
-3. **Supervised Learning:** Regression, Classification.
-4. **Unsupervised Learning:** Clustering, Dimensionality Reduction.
+2. **Data Visualization:** Histograms, KDE, Box Plots, Scatter Plots.
+3. **Linear Algebra:** Vectors, Matrices, Eigenvalues/Eigenvectors.
+4. **Supervised Learning:** Regression, Classification.
+5. **Unsupervised Learning:** Clustering, Dimensionality Reduction.
 
 ## 🔥 Interview & Exam Focus
 
